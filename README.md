@@ -1,2 +1,2 @@
 # my package
- This is just an exmaple of how to create and oublish your own python package
+ This is just an example of how to create and publish your own python package
